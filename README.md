@@ -21,7 +21,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+  ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHamesrp&show_icons=true&theme=tokyonight)
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHamesrp&layout=compact&theme=tokyonight)
+  
 </div>
 
 ## 📫 Entre em contato!
