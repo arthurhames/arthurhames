@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Arthur Hames!
-
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+Jr;2+anos+de+estudos;Sempre+em+busca+de+novos+desafios!)](https://git.io/typing-svg)
