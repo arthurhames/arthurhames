@@ -18,20 +18,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHamesrp&show_icons=true&theme=tokyonight)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AHamesrp&layout=compact&theme=tokyonight)
-  
-</div>
-
 ## 📫 Entre em contato!
 
 <div align="center">
+  
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurdasilvahames@gmail.com)
+  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthurhamess)
+  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHamesrp)
+  
 </div>
